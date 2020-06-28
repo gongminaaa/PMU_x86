@@ -1,0 +1,27 @@
+[  +0.000147] ##READ PMU Result IA32_PMC0 0xc1: [low]205065, [high]0
+[  +0.000002] ##READ PMU Result IA32_PMC1 0xc2: [low]650, [high]0
+[  +0.000001] ##READ PMU Result IA32_PMC2 0xc3: [low]182, [high]0
+[  +0.000001] ##READ PMU Result IA32_PMC3 0xc4: [low]92, [high]0
+
+
+[  +0.000147] ##READ PMU Result IA32_PMC0 0xc1: [low]205065, [high]0
+[  +0.000002] ##READ PMU Result IA32_PMC1 0xc2: [low]650, [high]0
+[  +0.000001] ##READ PMU Result IA32_PMC2 0xc3: [low]182, [high]0
+[  +0.000001] ##READ PMU Result IA32_PMC3 0xc4: [low]92, [high]0
+
+[  +0.000147] ##READ PMU Result IA32_PMC0 0xc1: [low]205065, [high]0
+[  +0.000002] ##READ PMU Result IA32_PMC1 0xc2: [low]650, [high]0
+[  +0.000001] ##READ PMU Result IA32_PMC2 0xc3: [low]182, [high]0
+[  +0.000001] ##READ PMU Result IA32_PMC3 0xc4: [low]92, [high]0
+
+
+[  +0.000146] ##READ PMU Result IA32_PMC0 0xc1: [low]205247, [high]0
+[  +0.000001] ##READ PMU Result IA32_PMC1 0xc2: [low]653, [high]0
+[  +0.000001] ##READ PMU Result IA32_PMC2 0xc3: [low]162, [high]0
+[  +0.000003] ##READ PMU Result IA32_PMC3 0xc4: [low]117, [high]0
+
+
+c1: instructions
+c2: cache references
+c3: branch misses
+c4: cache misses 
